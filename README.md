@@ -6,7 +6,7 @@ A minimalist and a not-so-minimal browser wireframe made with [Sketch](http://bo
 Inspired by [Minimus V](http://elgena.co/) and the lack of low-fidelity browser assets.
 
 ![The minimalist one](https://raw.github.com/egimenez/browser-wireframe/master/browser%20wireframe%20minimalist.png)
-![The not-so-minimalist one](https://raw.github.com/egimenez/browser-wireframe/master/browser%20wireframe%20minimalist.png)
+![The not-so-minimalist one](https://raw.github.com/egimenez/browser-wireframe/master/browser%20wireframe.png)
 
 ## Background image
 Is public domain, from [flickr](http://www.flickr.com/photos/sdasmarchives/8581368722/)
